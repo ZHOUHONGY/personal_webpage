@@ -47,7 +47,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fab
+  icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
@@ -55,6 +55,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
+- icon: weixin
+  icon_pack: fab
+  link: '/#contact'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
