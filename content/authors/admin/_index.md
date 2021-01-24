@@ -47,7 +47,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+  icon_pack: fab
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
@@ -71,7 +71,5 @@ highlight_name: false
 ---
 
 Hongyu is a doctoral student at the Department of Sociology, University of Antwerp. His research lies in the field of scientometrics and sociology of science (computational perspective), where he applies big data analysis techniques to uncover the production, consumption, and diffusion of scientific knowledge. Specifically, his research focuses on the nature and dynamics of interdisciplinary research in social sciences and humanities.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
